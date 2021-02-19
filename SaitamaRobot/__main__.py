@@ -80,15 +80,14 @@ You can find my list of available commands with /help.
 """
 
 HELP_STRINGS = """
-Hey there! My name is Sakuta!.
-I Can manage tidur group!
-the things I can help you with.
-
-*Main* commands available:
- • /help: PM's you this message.
- • /help <module name>: PM's you info about that module.
- • /donate: information on how to donate!
- • /settings:
+Hi! My name is Sakuta!.
+I Can manage Your group!
+╭┈─────── ೄྀ࿐ ˊˎ-
+╰➤ .command available
+ 💛 /help: PM's you this message.
+ 💛 /help <module name>: PM's you info about that module.
+ 💛 /donate: information on how to donate!
+ 💛/settings:
    • in PM: will send you your settings for all supported modules.
    • in a group: will redirect you to pm, with all that chat's settings.
 
@@ -100,7 +99,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/ed977c8936689ae11e57d.mp4"
+SAITAMA_IMG = "https://telegra.ph/file/f002de93424047045dce8.mp4"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](ko-fi.com/sawada) or by contacting @Sawada \
